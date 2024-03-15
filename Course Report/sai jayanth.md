@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: XSS PAYLOADS             | [click here](https://github.com/THE-HACKER7/G5_CS/tree/main/Mini%20Projects/Sai%20Jayanth)|
-| Final Project: XSS GAME CHALLENGE       | [click here](https://github.com/THE-HACKER7/G5_CS/tree/main/Final%20Capstone%20Project/Sai%20Jayanth)|
+| Mini Projects: XSS PAYLOADS             | [click here](https://github.com/sure-trust/G5_CS/tree/main/Mini%20Projects/Sai%20Jayanth)|
+| Final Project: XSS GAME CHALLENGE       | [click here](https://github.com/sure-trust/G5_CS/tree/main/Final%20Capstone%20Project/Sai%20Jayanth)|
