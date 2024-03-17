@@ -19,7 +19,9 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Cyber Security, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
-
+|Student name | Link |
+|-------------|------|
+|Sai jayanth|[Click Here](https://github.com/sure-trust/G5_CS/blob/main/Course%20Report/sai%20jayanth.md)|
 
 ## Repository Description
 
